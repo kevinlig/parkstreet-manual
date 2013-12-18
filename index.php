@@ -2,7 +2,7 @@
 
 require_once("ParkStreet/ParkStreet.php");
 /*
- * Start the frameworks
+ * Start the framework
  */
 use ParkStreet\ParkStreet;
 $app = new ParkStreet();
